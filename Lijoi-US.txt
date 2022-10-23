@@ -1,0 +1,5 @@
+USER STORIES
+
+1.	Come utente, voglio lasciare un voto al sito, così da valutarlo.
+2.	Come admin, voglio vedere la media dei voti lasciati dagli utenti, al fine di valutare il loro livello di soddisfazione.
+3.	Come admin, voglio poter modificare i parametri di ricerca, al fine di cambiare i filtri della ricerca delle componenti.
