@@ -1,6 +1,5 @@
 User Stories
 
-
 1.	Come utente, voglio selezionare dei parametri per filtrare la ricerca delle componenti del pc da assemblare.
 2.	Come utente, voglio lasciare un voto al sito, così da valutarlo.
 3.	Come admin, voglio vedere la media dei voti lasciati dagli utenti, al fine di valutare il loro livello di soddisfazione.
