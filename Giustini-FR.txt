@@ -1,5 +1,6 @@
 Requisiti Funzionali
 
+
 1.	Il sistema deve permettere il Login come utente o come admin.
 2.	Il sistema deve utilizzare i parametri scelti dall’utente per filtrare la ricerca delle componenti.
 3.	Il sistema deve consentire all’utente la scelta di salvare la configurazione.
